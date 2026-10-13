@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nombre": "Emely",
+    "apellido": "Zambrano",
+    "email": "ezambranom26@unemi.edu.ec",
+    "telefono": "0999999999",
+    "ciudad": "Duran"
+  },
+  {
+    "id": 2,
+    "nombre": "Vanessa",
+    "apellido": "Murillo",
+    "email": "vmurillom@unemi.edu.ec",
+    "telefono": "0999999999",
+    "ciudad": "Bastion"
+  }
+]

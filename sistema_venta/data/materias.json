@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "nombre": "Programación Orientada A Objetos",
+    "codigo": "POO001",
+    "creditos": 4,
+    "docente_id": 1
+  }
+]

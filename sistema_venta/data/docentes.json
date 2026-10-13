@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "nombre": "Daniel",
+    "apellido": "Vera",
+    "email": "dvera@unemi.edu.ec",
+    "titulo": "Ingeniero de Software",
+    "especialidad": "Programación"
+  }
+]
