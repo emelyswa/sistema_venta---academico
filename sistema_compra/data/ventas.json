@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "cliente_id": 3,
+    "fecha": "2026-10-14",
+    "total": 24.0,
+    "detalles": [
+      {
+        "producto_id": 3,
+        "descripcion": "Jugo Del Valle",
+        "cantidad": 2,
+        "precio_unitario": 2.0,
+        "subtotal": 4.0
+      },
+      {
+        "producto_id": 2,
+        "descripcion": "Leche Deslactosada",
+        "cantidad": 5,
+        "precio_unitario": 4.0,
+        "subtotal": 20.0
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "cliente_id": 2,
+    "fecha": "2026-10-14",
+    "total": 11.0,
+    "detalles": [
+      {
+        "producto_id": 1,
+        "descripcion": "Leche Entera",
+        "cantidad": 3,
+        "precio_unitario": 3.0,
+        "subtotal": 9.0
+      },
+      {
+        "producto_id": 3,
+        "descripcion": "Jugo Del Valle",
+        "cantidad": 1,
+        "precio_unitario": 2.0,
+        "subtotal": 2.0
+      }
+    ]
+  }
+]

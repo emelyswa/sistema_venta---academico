@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "proveedor_id": 1,
+    "fecha": "2026-10-14",
+    "total": 60.0,
+    "detalles": [
+      {
+        "producto_id": 1,
+        "descripcion": "Leche",
+        "cantidad": 30,
+        "costo_unitario": 2.0,
+        "subtotal": 60.0
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "proveedor_id": 2,
+    "fecha": "2026-10-14",
+    "total": 10.0,
+    "detalles": [
+      {
+        "producto_id": 2,
+        "descripcion": "Botellon De Agua",
+        "cantidad": 10,
+        "costo_unitario": 1.0,
+        "subtotal": 10.0
+      }
+    ]
+  }
+]
