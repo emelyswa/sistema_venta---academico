@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nombre": "Emely",
+    "apellido": "Zambrano",
+    "email": "ezambranom26@unemi.edu.ec",
+    "carnet": "EST0001"
+  },
+  {
+    "id": 2,
+    "nombre": "Vanessa",
+    "apellido": "Murillo",
+    "email": "vmurillom@unemi.edu.ec",
+    "carnet": "EST0002"
+  }
+]

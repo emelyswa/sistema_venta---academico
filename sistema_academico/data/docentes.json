@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nombre": "Daniel",
+    "apellido": "Vera",
+    "email": "dvera@unemi.edu.ec",
+    "titulo": "Ingeniero de Software",
+    "especialidad": "Programación"
+  },
+  {
+    "id": 2,
+    "nombre": "Juan",
+    "apellido": "Barco",
+    "email": "jbarcoq@unemi.edu.ec",
+    "titulo": "Ingeniero en Sistemas",
+    "especialidad": "Sistemas"
+  }
+]

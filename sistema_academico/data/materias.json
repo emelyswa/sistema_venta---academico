@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nombre": "Programación Orientada A Objetos",
+    "codigo": "POO001",
+    "creditos": 4,
+    "docente_id": 1
+  },
+  {
+    "id": 2,
+    "nombre": "Matemáticas Discretas",
+    "codigo": "MAT0001",
+    "creditos": 2,
+    "docente_id": 2
+  }
+]
